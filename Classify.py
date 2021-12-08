@@ -1,4 +1,4 @@
-from typing import Iterator
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException, ElementNotInteractableException, ElementNotVisibleException, WebDriverException, NoSuchElementException
